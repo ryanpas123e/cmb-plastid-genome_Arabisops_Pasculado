@@ -1,1 +1,154 @@
-#
+#Arabidopsis thaliana Chloroplast Gene Summary
+
+Organism: Arabidopsis thaliana
+NCBI Accession: NC_000932.1
+Genome Size: 154,478 bp
+
+Gene Content
+------------
+Annotated Features: 129
+Unique Genes: 117
+
+Protein-Coding Genes: 87
+tRNA Genes: 37
+rRNA Genes: 4
+
+Pseudogenes
+-----------
+infA
+rps16
+
+Photosystem I
+-------------
+psaA
+psaB
+psaC
+psaI
+psaJ
+
+Photosystem II
+--------------
+psb30
+psbA
+psbB
+psbC
+psbD
+psbE
+psbF
+psbH
+psbI
+psbJ
+psbK
+psbL
+psbM
+psbT
+psbZ
+
+ATP Synthase
+------------
+atpA
+atpB
+atpE
+atpF
+atpH
+atpI
+
+Cytochrome b6f Complex
+----------------------
+petA
+petB
+petD
+petG
+petL
+petN
+
+Carbon Fixation
+---------------
+rbcL
+
+RNA Polymerase
+--------------
+rpoA
+rpoB
+rpoC1
+rpoC2
+
+Ribosomal Proteins - Large Subunit
+----------------------------------
+rpl2
+rpl14
+rpl16
+rpl20
+rpl22
+rpl23
+rpl32
+rpl33
+rpl36
+
+Ribosomal Proteins - Small Subunit
+----------------------------------
+rps2
+rps3
+rps4
+rps7
+rps8
+rps11
+rps12
+rps14
+rps15
+rps16
+rps18
+rps19
+rps19-fragment
+
+rRNA Genes
+----------
+rrn4.5
+rrn5
+rrn16
+rrn23
+
+tRNA Genes
+----------
+trnA
+trnC
+trnD
+trnE
+trnF
+trnG
+trnH
+trnI
+trnK
+trnL
+trnM
+trnN
+trnP
+trnQ
+trnR
+trnS
+trnT
+trnV
+trnW
+trnY
+
+Other Conserved Genes
+---------------------
+matK
+clpP1
+accD
+cemA
+ycf1
+ycf2
+
+Important Structural Features
+-----------------------------
+- Two inverted repeat (IR) regions
+- Gene duplications occur in the IR regions
+- Trans-spliced rps12 gene
+- Pseudogenes infA and rps16
+- Typical LSC-IR-SSC-IR organization
+
+Annotation Source
+-----------------
+GeSeq 2.03
+NCBI RefSeq accession: NC_000932.1
