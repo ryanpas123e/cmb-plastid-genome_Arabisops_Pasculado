@@ -1,0 +1,154 @@
+#Arabidopsis thaliana CHLOROPLAST GENOME SUMMARY
+
+Organism
+--------
+Arabidopsis thaliana
+
+Family
+------
+Brassicaceae
+
+Genome Type
+-----------
+Chloroplast (plastid) genome
+
+NCBI Accession
+--------------
+NC_000932.1
+
+Genome Description
+------------------
+Arabidopsis thaliana chloroplast, complete genome
+
+Genome Status
+-------------
+Complete genome
+
+Topology
+--------
+Circular
+
+Genome Size
+-----------
+154,478 bp
+
+Genome Statistics
+-----------------
+Number of Sequence Records: 1
+Number of Scaffolds: 1
+Total Scaffold Length: 154,478 bp
+Average Scaffold Length: 154,478 bp
+Scaffold N50: 154,478 bp
+Scaffold L50: 1
+
+Number of Contigs: 1
+Total Contig Length: 154,478 bp
+Contig N50: 154,478 bp
+Contig L50: 1
+
+Number of Gaps: 0
+
+GC Content
+----------
+36.29%
+
+Base Composition
+----------------
+Adenine (A): 48,546 bp
+Cytosine (C): 28,496 bp
+Guanine (G): 27,570 bp
+Thymine (T): 49,866 bp
+
+Plastid Genome Structure
+------------------------
+The chloroplast genome has a typical quadripartite organization
+consisting of a Large Single-Copy (LSC) region, two Inverted
+Repeat (IR) regions, and a Small Single-Copy (SSC) region.
+
+Large Single-Copy (LSC): 84,170 bp
+Inverted Repeat B (IRB): 26,264 bp
+Small Single-Copy (SSC): 17,780 bp
+Inverted Repeat A (IRA): 26,264 bp
+
+Total Genome Length: 154,478 bp
+
+Gene Content
+------------
+Total Annotated Features: 129
+Total Unique Genes: 117
+Protein-Coding Genes: 87
+tRNA Genes: 37
+rRNA Genes: 4
+
+Pseudogenes
+-----------
+infA
+rps16
+
+Important Genome Features
+-------------------------
+- Circular chloroplast genome
+- No sequence gaps
+- One scaffold and one contig
+- Typical LSC-IR-SSC-IR organization
+- Two inverted repeat regions
+- Gene duplications associated with the inverted repeat regions
+- Trans-spliced rps12 gene
+- Pseudogenes infA and rps16
+
+Major Functional Gene Groups
+----------------------------
+Photosystem I:
+psaA, psaB, psaC, psaI, psaJ
+
+Photosystem II:
+psb30, psbA, psbB, psbC, psbD, psbE, psbF, psbH,
+psbI, psbJ, psbK, psbL, psbM, psbT, psbZ
+
+ATP Synthase:
+atpA, atpB, atpE, atpF, atpH, atpI
+
+Cytochrome b6f Complex:
+petA, petB, petD, petG, petL, petN
+
+Carbon Fixation:
+rbcL
+
+RNA Polymerase:
+rpoA, rpoB, rpoC1, rpoC2
+
+Ribosomal Protein Genes:
+rpl2, rpl14, rpl16, rpl20, rpl22, rpl23, rpl32, rpl33, rpl36,
+rps2, rps3, rps4, rps7, rps8, rps11, rps12, rps14, rps15,
+rps16, rps18, rps19, rps19-fragment
+
+rRNA Genes:
+rrn4.5, rrn5, rrn16, rrn23
+
+Other Conserved Genes:
+matK, clpP1, accD, cemA, ycf1, ycf2
+
+Data Source
+-----------
+National Center for Biotechnology Information (NCBI)
+RefSeq accession: NC_000932.1
+
+Analysis Tools
+--------------
+Galaxy
+gfastats
+GeSeq 2.03
+GFF3 annotation analysis
+GenBank annotation analysis
+
+Summary
+-------
+The Arabidopsis thaliana chloroplast genome is a complete,
+circular genome of 154,478 bp with a GC content of 36.29%.
+The genome consists of one scaffold and one contig with no
+sequence gaps and has a characteristic LSC-IR-SSC-IR structure.
+Its annotation contains 129 annotated features representing
+117 unique genes, including protein-coding genes, tRNA genes,
+and rRNA genes. The annotation also identifies the pseudogenes
+infA and rps16, duplicated genes associated with the inverted
+repeat regions, and the trans-spliced rps12 gene.
