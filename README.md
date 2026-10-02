@@ -77,11 +77,13 @@ and other chloroplast functions.
 
 ## Reference
 
-Sato, S., Nakamura, Y., Kaneko, T., Asamizu, E., & Tabata, S.
-(1999). Complete structure of the chloroplast genome of
-*Arabidopsis thaliana*. DNA Research, 6(5), 283–290.
+## References
 
-## Reproducibility
+1. Sato, S., Nakamura, Y., Kaneko, T., Asamizu, E., & Tabata, S. (1999). *Complete structure of the chloroplast genome of Arabidopsis thaliana*. DNA Research, 6(5), 283–290. PubMed: 10574454.
+
+2. National Center for Biotechnology Information (NCBI). *Arabidopsis thaliana* chloroplast, complete genome. 
+
+3. NCBI RefSeq. Reference Sequence Database. Genome sequence and annotation information for *Arabidopsis thaliana* chloroplast genome, NC_000932.1.
 
 Another student can repeat the analysis by downloading
 NC_000932.1 from NCBI, uploading the GenBank sequence to
