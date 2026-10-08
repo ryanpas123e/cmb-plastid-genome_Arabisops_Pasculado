@@ -25,10 +25,10 @@ The plastid genome sequence and annotation were obtained from the **NCBI GenBank
 The genome was displayed as a circular plastid genome map. The map includes the annotated gene features, gene orientation, the LSC, SSC, and inverted-repeat regions, as well as a GC-content graph. The standard gene-function color classification was used to distinguish different groups of genes. The map was exported as a PNG image.
 
 ## Plastid Genome Map
-![Arabidopsis thaliana plastid genome map](Figures/Arabidopsis_thaliana_plastid_map.png)
 
-[Open the full plastid genome map](Figures/Arabidopsis_thaliana_plastid_map.png)
+![Arabidopsis thaliana plastid genome map](Figures/Arabisopsis%20thaliana%20plastid%20map.png)
 
+[Open the full plastid genome map](Figures/Arabisopsis%20thaliana%20plastid%20map.png)
 
 ## Main Structural Features
 
@@ -36,11 +36,12 @@ The *Arabidopsis thaliana* plastid genome is a circular genome of **154,478 bp**
 
 The genes are arranged around the circular genome and are shown with arrows indicating their transcriptional orientation. The map displays different functional groups of genes, including photosynthesis-related genes, ATP synthase genes, ribosomal protein genes, transfer RNA genes, ribosomal RNA genes, and other chloroplast genes. The GC-content graph shows variation in GC content across different regions of the genome, with an overall genome GC content of approximately **36.29%**.
 
-## Plastid Genome Map
+## Genome Analysis Answers
 
-![Arabidopsis thaliana plastid genome map](Figures/Arabisopsis%20thaliana%20plastid%20map.png)
+The answers and analysis for the plastid genome map are available in:
 
-[Open the full plastid genome map](Figures/Arabisopsis%20thaliana%20plastid%20map.png)
+[Lab Plastid Genome Answers](Answers/Lab_Plastid_Genome_Answers.md)
+
 ## Reference
 
 OGDRAW (OrganellarGenomeDRAW) is a tool for generating graphical maps of plastid and mitochondrial genomes from annotated organelle genome sequences. It provides options for displaying gene features, genome regions, gene orientation, and GC-content information.
