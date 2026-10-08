@@ -25,8 +25,10 @@ The plastid genome sequence and annotation were obtained from the **NCBI GenBank
 The genome was displayed as a circular plastid genome map. The map includes the annotated gene features, gene orientation, the LSC, SSC, and inverted-repeat regions, as well as a GC-content graph. The standard gene-function color classification was used to distinguish different groups of genes. The map was exported as a PNG image.
 
 ## Plastid Genome Map
+![Arabidopsis thaliana plastid genome map](Figures/Arabidopsis_thaliana_plastid_map.png)
 
-![Arabidopsis thaliana plastid genome map](Figures/Arabidopsis%20thaliana%20plastid%20map.png)
+[Open the full plastid genome map](Figures/Arabidopsis_thaliana_plastid_map.png)
+
 
 ## Main Structural Features
 
