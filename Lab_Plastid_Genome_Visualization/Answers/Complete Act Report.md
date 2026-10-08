@@ -1,49 +1,49 @@
-# VISUALIZE PLASTID GENOME STRUCTURE
+#Plastid Genome Map Question
 
-**Cell and Molecular Biology**
+**1. What is the scientific name of your chosen plant and its plastid genome accession number?**
 
-**Name:** Pasculado, Mark Ryan
+- Scientific name: *Arabidopsis thaliana*
+- Plastid genome accession number: NC_000932.1
 
-**Date Completed:** October 08, 2026
+**2. What is the total length of the plastid genome in base pairs?**
 
-**Chosen Genus:** *Arabidopsis*
+- Total length: 154,478 bp
 
----
+**3. Can you identify the LSC, SSC, IRa, and IRb regions on your map? Briefly describe their positions.**
 
-# Overview
+- LSC (Large Single-Copy region): The largest region of the circular map, located between IRb and IRa; it spans approximately 1–84,170 bp (84.17 kb).
+- SSC (Small Single-Copy region): The smallest single-copy region, located between IRa and IRb; it spans approximately 110,435–128,214 bp (17.78 kb).
+- IRa (Inverted Repeat A): Located between the SSC and LSC on the right side of the circular map; it spans approximately 128,215–154,478 bp (26.264 kb).
+- IRb (Inverted Repeat B): Located between the LSC and SSC on the left side of the circular map; it spans approximately 84,171–110,434 bp (26.264 kb).
 
-In this laboratory activity, the same plastid genome selected in the previous plastid genome activity was used to generate a graphical map of the chloroplast genome. The map was examined to identify the major structural regions, gene organization, gene distribution, transcriptional direction, and GC-content pattern of the plastid genome.
+**4. Give three examples of genes located in the LSC region.**
 
-# Part A. Prepare Your Plastid Genome File
+- *psbA* (Photosystem II reaction center D1 protein)
+- *rbcL* (Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit)
+- *atpA* (ATP synthase subunit alpha)
 
-| **ITEM** | **ANSWER** |
-| -------- | ---------- |
-| Genus | *Arabidopsis* |
-| Species | *Arabidopsis thaliana* |
-| Accession | NC_000932.1 |
-| Genome | Chloroplast genome |
-| Genome Size | 154,478 bp |
-| Topology | Circular |
-| URL | https://www.ncbi.nlm.nih.gov/nuccore/NC_000932.1 |
+**5. Give at least one example of a gene located in the SSC region.**
 
-# Part C. Generate the Plastid Genome Map Using OGDRAW
+- *ndhA* (NADH dehydrogenase-like subunit A)
 
-![Plastid genome map](../figures/Arabidopsis_thaliana_plastid_map.png)
+**6. Give at least one example of a gene that occurs within an inverted repeat region. Is the gene shown more than once because of the duplicated IR regions?**
 
----
-# Part D. Examine Your Plastid Genome Map
+- *rrn16* (16S ribosomal RNA gene)
+- Yes. The gene occurs in both IRa and IRb because the two inverted-repeat regions contain duplicated copies of the same genomic sequence.
 
-| **Feature** | **Location / observation on the map** |
-| ----------- | ------------------------------------- |
-| Large single-copy region (LSC) | The largest region of the genome, extending from **1–84,170 bp** (84.17 kb). |
-| Small single-copy region (SSC) | Located between the two inverted repeats, extending from **110,435–128,214 bp** (17.78 kb). |
-| Inverted repeat A (IRa) | Extends from **128,215–154,478 bp** (26.264 kb). |
-| Inverted repeat B (IRb) | Extends from **84,171–110,434 bp** (26.264 kb). |
-| Protein-coding genes | Distributed throughout the chloroplast genome. Examples include *psaA*, *psaB*, *psbA*, *psbD*, *atpA*, *petA*, *rbcL*, *rpoA*, *rpoB*, *rpl2*, and *rps12*. |
-| tRNA genes | Distributed throughout the genome in the LSC, SSC, and IR regions. Examples include *trnA*, *trnC*, *trnD*, *trnE*, *trnF*, *trnG*, *trnH*, *trnK*, *trnL*, *trnM*, *trnN*, *trnP*, *trnQ*, *trnR*, *trnS*, *trnT*, *trnV*, *trnW*, and *trnY*. |
-| rRNA genes | Located within the inverted repeat regions: *rrn4.5*, *rrn5*, *rrn16*, and *rrn23*. |
-| Genes within the inverted repeats | The IR regions contain duplicated copies of genes located within the repeated sequence. These include rRNA genes and several ribosomal-protein and tRNA genes. |
-| Direction of transcription | Genes occur on both DNA strands, so transcription occurs in both directions around the circular chloroplast genome. The orientation of individual genes is represented by their direction on the OGDRAW map. |
-| GC content graph | The genome has an overall GC content of **36.29%**. The GC-content track on the map shows that GC content is not completely uniform across the chloroplast genome and varies among different regions. |
+**7. Choose one photosynthesis-related gene visible on your map. State its gene name and its general biological function.**
 
----
+- Gene name: *psaA* (Photosystem I reaction center subunit A)
+- General biological function: Encodes a core component of Photosystem I. It participates in the light-dependent reactions of photosynthesis by forming part of the reaction center involved in light energy capture and electron transfer.
+
+**8. What does the direction of the gene arrows or gene orientation tell you about transcription on the plastid genome?**
+
+- The direction of the gene arrows and their orientation show that genes are transcribed from both DNA strands. In the OGDRAW map, genes located outside the circle are transcribed clockwise, while genes located inside the circle are transcribed counter-clockwise. This indicates that transcription occurs in both directions around the circular plastid genome.
+
+**9. Look at the GC content graph. Does GC content appear uniform across the entire plastid genome, or does it vary among regions? Describe what you observe without over-interpreting it.**
+
+- GC content is not uniform across the entire plastid genome and varies among the major regions. The LSC has approximately 34.0% GC, the SSC has approximately 29.3% GC, and the IR regions have approximately 42.3% GC. The overall GC content of the genome is approximately 36.3% (36.29% based on the sequence statistics).
+
+**10. Why is a graphical plastid genome map useful compared with viewing only the raw DNA sequence or a long list of annotations?**
+
+- A graphical plastid genome map makes the organization of the genome easier to understand at a glance. It allows the LSC, SSC, IRa, and IRb regions, gene positions, gene distribution, transcriptional directions, and GC-content variation to be viewed together. A raw DNA sequence or a long list of annotations provides the sequence information but does not clearly show the spatial arrangement of genes and structural regions around the circular genome. Therefore, the graphical map makes the overall genome organization easier to interpret.
