@@ -26,7 +26,7 @@ The genome was displayed as a circular plastid genome map. The map includes the 
 
 ## Plastid Genome Map
 
-[Arabidopsis thaliana plastid genome map](figures/Arabidopsis_thaliana_plastid_map.png)
+![Arabidopsis thaliana plastid genome map](Figures/Arabidopsis%20thaliana%20plastid%20map.png)
 
 ## Main Structural Features
 
@@ -35,11 +35,9 @@ The *Arabidopsis thaliana* plastid genome is a circular genome of **154,478 bp**
 The genes are arranged around the circular genome and are shown with arrows indicating their transcriptional orientation. The map displays different functional groups of genes, including photosynthesis-related genes, ATP synthase genes, ribosomal protein genes, transfer RNA genes, ribosomal RNA genes, and other chloroplast genes. The GC-content graph shows variation in GC content across different regions of the genome, with an overall genome GC content of approximately **36.29%**.
 
 ## Genome Analysis Answers
-
 The answers and analysis for the plastid genome map are available in:
 
-[Lab Plastid Genome Answers](answers/Lab_Plastid_Genome_Answers.md)
-
+[Lab Plastid Genome Answers](Answers/Complete%20Act%20Report.md)
 ## Reference
 
 OGDRAW (OrganellarGenomeDRAW) is a tool for generating graphical maps of plastid and mitochondrial genomes from annotated organelle genome sequences. It provides options for displaying gene features, genome regions, gene orientation, and GC-content information.
